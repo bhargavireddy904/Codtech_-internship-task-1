@@ -12,6 +12,7 @@ Mentor:Neela santhosh kumar
 
 Over view of the project :
 
+
  Project:Program an Arduino board to blink an LED at a specific interval. This project Introduces basic embedded programming concepts and interfacing with hardware.
 
 
